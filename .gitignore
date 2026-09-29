@@ -1,0 +1,4 @@
+/target/
+/.axonal/
+docs/superpowers/
+node_modules/
